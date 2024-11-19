@@ -31,6 +31,7 @@ int main()
 
     // Memória felszabadítása
     delete[] b;
+    std::cout << "Github collab" << std::endl;
 
     return 0;
 }
